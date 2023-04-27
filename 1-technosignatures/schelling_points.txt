@@ -1,0 +1,8 @@
+#source  freq(MHz) authors
+H1 1420  cocconi-morrison+59
+pi*H1   4462.336    blair+92
+OH  1667    seti?
+H2CO    4830  morimoto+78
+universal_constants 2556.8  sivaram+17
+planck_comb 190.887 wright+20
+He3+ 8666.565   bania-hood+91
